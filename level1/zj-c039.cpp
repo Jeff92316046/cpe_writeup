@@ -1,6 +1,9 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 int main(){
-    cout<<"aaaa";
-    return 1;
+    int m,n;
+    int x,y;
+    string str;
+    
+    return 0;
 }
